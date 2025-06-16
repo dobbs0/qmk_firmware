@@ -1,0 +1,12 @@
+#define OLED_DISPLAY_128X64
+#define OLED_TIMEOUT 60000
+
+#define I2C1_SCL_PIN GP3
+#define I2C1_SDA_PIN GP2
+
+#define ENCODER_A_PINS { GP4 }
+#define ENCODER_B_PINS { GP5 }
+
+#define WS2812_DI_PIN GP0
+#define RGBLIGHT_LED_COUNT 16
+
