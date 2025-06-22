@@ -11,8 +11,8 @@
 #define SPI_SCK_PIN A5        //CL Pin
 #define SPI_MOSI_PIN A7       //DA Pin
 #define SPI_MISO_PIN A6         //Not used. 
-#define DISPLAY_CS_PIN   B1   // Chip Select
-#define DISPLAY_DC_PIN   A3   // Data/Command
+#define DISPLAY_CS_PIN   B6   // Chip Select
+#define DISPLAY_DC_PIN   C7   // Data/Command
 #define DISPLAY_RST_PIN  NO_PIN   // Reset pin, optional (can be NO_PIN)
 #define DISPLAY_BACKLIGHT_PIN NO_PIN
 
