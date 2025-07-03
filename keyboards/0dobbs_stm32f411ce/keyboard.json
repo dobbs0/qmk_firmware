@@ -10,7 +10,8 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "quantum_painter": true
     },
     "matrix_pins": {
         "cols": ["C2", "C2", "C2", "C2"],
