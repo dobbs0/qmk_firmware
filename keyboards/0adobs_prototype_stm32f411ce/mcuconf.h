@@ -1,0 +1,26 @@
+#pragma once
+
+#include_next <mcuconf.h>
+
+// #undef STM32_I2C_USE_I2C1
+// #define STM32_I2C_USE_I2C1 TRUE
+
+// #undef STM32_I2C_I2C1_RX_DMA_STREAM
+// #define STM32_I2C_I2C1_RX_DMA_STREAM STM32_DMA_STREAM_ID(1, 0)
+// #undef STM32_I2C_I2C1_TX_DMA_STREAM
+// #define STM32_I2C_I2C1_TX_DMA_STREAM STM32_DMA_STREAM_ID(1, 1)
+
+// #undef STM32_PWM_USE_TIM1
+// #define STM32_PWM_USE_TIM1 TRUE
+
+// #undef STM32_PWM_USE_TIM3
+// #define STM32_PWM_USE_TIM3 TRUE
+
+#undef STM32_SPI_USE_SPI1
+#define STM32_SPI_USE_SPI1           TRUE
+
+// #undef STM32_SPI_USE_SPI2
+// #define STM32_SPI_USE_SPI2           TRUE
+
+// #undef STM32_SERIAL_USE_USART2
+// #define STM32_SERIAL_USE_USART2 TRUE

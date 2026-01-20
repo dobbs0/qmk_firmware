@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Dobbs",
+    "manufacturer": "Jesse Cheung",
     "keyboard_name": "adobs_keyboard",
-    "maintainer": "Dobbs",
+    "maintainer": "jessecheu",
     "development_board": "kb2040",
     "diode_direction": "COL2ROW",
     "features": {
